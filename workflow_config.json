@@ -1,0 +1,8 @@
+{
+  "nodes": [
+    {
+      "id": "node-1"
+    }
+  ],
+  "workflow_id": "test-wf"
+}
